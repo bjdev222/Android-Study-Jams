@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">University Database</string>
+    <string name="title_activity_department">DepartmentActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="info">
+        "\n    SCET being one of the Institutes of the biggest Philanthropic Society of the Country has a strong base of values and commitments to create a progressive civilization. SCET located in the heart of the city presently enrolls more than 2000 students in various disciplines of Engineering and MCA where-in we run 9 UG courses and 7 PG courses. All UG and PG courses are affiliated to Gujarat Technological University (GTU), Chandkheda.
+        \n\n
+
+    All the department of SCET has always been very vigilant in upgrading and updating its resources in terms of infrastructure and human resources. There is a continuous process of learning going around in the campus where-in not only the students are exposed to the latest and recent trends of design and technology but even the faculty members through its constant Endeavour to learn something relevant to the times and therefore constantly engages themselves to the application of technology through various consultancy projects for various government and semi-government agencies and corporate world. This process not only helps faculty to upgrade his/her knowledge but also gives the unique opportunity to expose their students to the actual profession and application of knowledge in the industry through continuous efforts for training programs, study tours and industrial visits.
+        \n\n
+    Since 1995 it continuously keeps on upgrading its resources in terms of its human as well as infrastructure. It continues to foster the innovative minds who have carved a successful and a special niche in this competitive world of academics for technical education and is marching ahead to become one of the most premier academic institutes in the country.
+\n\n
+    SCET is taking a lead role in developing Training and Placement related activities of south Gujarat region with the help of GTU- ITAP Cell. It is acting as a single point of contact for companies to help them for recruitment of Engineers, Pharmacist, MBA, M.Sc., B.Sc. Diploma etc. It is providing infrastructure and resources for conduction of pool campus recruitment drives for students of about 40 colleges from Baroda to Vapi for different disciplines. SCET with its innovative approach towards INSTITUTE INDUSTRY IN TRACTION has an excellent placement records for its students.
+        "
+
+    </string>
+</resources>

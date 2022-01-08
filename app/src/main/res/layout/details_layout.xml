@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <androidx.cardview.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_margin="10dp"
+        android:layout_height="wrap_content"
+        app:cardBackgroundColor="#f2f2f2">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_margin="10dp"
+            android:outlineAmbientShadowColor="@color/black"
+            android:layout_height="wrap_content">
+
+            <de.hdodenhof.circleimageview.CircleImageView
+                android:id="@+id/profileimage"
+                android:layout_width="96dp"
+                app:civ_border_color="@color/black"
+                app:civ_border_width="2dp"
+                android:layout_height="96dp"
+                android:layout_centerHorizontal="true"
+                android:src="@drawable/ic_launcher_background">
+
+            </de.hdodenhof.circleimageview.CircleImageView>
+
+            <TextView
+                android:id="@+id/profName"
+                android:fontFamily="@font/gb"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/profileimage"
+                android:layout_centerHorizontal="true"
+                android:layout_marginTop="10dp"
+
+                android:text="Hello"
+                android:textAlignment="center"
+                android:textColor="@color/black"
+                android:textSize="20sp"></TextView>
+
+            <TextView
+                android:id="@+id/profBio"
+                android:fontFamily="@font/extralight"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/profName"
+                android:layout_centerHorizontal="true"
+                android:text="Hello"
+                android:layout_marginTop="5dp"
+
+                android:textAlignment="center"
+                android:textColor="@color/black"
+                android:textSize="18sp"></TextView>
+
+        </RelativeLayout>
+    </androidx.cardview.widget.CardView>
+
+</RelativeLayout>

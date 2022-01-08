@@ -1,0 +1,324 @@
+{
+  "Dept": [
+    {
+      "dept": "COMPUTER ENGINEERING",
+      "staff": [
+        {
+          "iUrl": "https://scet.ac.in/wp-content/uploads/2014/07/CO_ParizaKamboj.jpg",
+          "bio": "Professor and Head of Department",
+          "name": "Prof. (Dr.) Pariza Kamboj"
+        },
+        {
+          "iUrl": "https://scet.ac.in/wp-content/uploads/2014/07/CO_KeyurRana.jpg",
+          "bio": "Professor, Dean Student Activity and Welfare Council",
+          "name": "Prof. (Dr.) Keyur Rana"
+        },
+        {
+          "iUrl": "https://scet.ac.in/wp-content/uploads/2014/07/CO_JB-150x150.jpg",
+          "bio": "Professor",
+          "name": "Prof. Jaydeep Barad"
+        },
+        {
+          "iUrl": "https://scet.ac.in/wp-content/uploads/2014/07/CO_BhaveshPatel.jpg",
+          "bio": "Professor",
+          "name": "Bhavesh sir"
+        },
+        {
+          "iUrl": "https://scet.ac.in/wp-content/uploads/2014/07/CO_JayeshChaudhary.jpg",
+          "bio": "Professor",
+          "name": "Jayesh sir"
+        }
+      ]
+    },
+    {
+      "dept": "MECHANICAL ENGINEERING",
+      "staff": [
+        {
+          "iUrl": "https://scet.ac.in/wp-content/uploads/2014/07/ASH_NitinVibhakar1.jpg",
+          "bio": "Professor and Head of Department",
+          "name": "Dr. Nitin Vibhakar"
+        },
+        {
+          "iUrl": "https://scet.ac.in/wp-content/uploads/2014/07/Dr.-Pankaj-Gohil-150x150.jpeg",
+          "bio": "Associate Professor",
+          "name": "Dr. Pankaj Gohil"
+        },
+        {
+          "iUrl": "https://scet.ac.in/wp-content/uploads/2014/07/ASH_AmitMehta1.jpg",
+          "bio": "ASSISTANT PROFESSOR",
+          "name": "Prof. Amit Mehta"
+        },
+        {
+          "iUrl": "https://scet.ac.in/wp-content/uploads/2014/07/ASH_SatishDokiparti1.jpg",
+          "bio": "Assistant Professor",
+          "name": "Prof. Satish Dokiparti"
+        },
+        {
+          "iUrl": "https://scet.ac.in/wp-content/uploads/2014/07/ASH_UmangGajjar.jpeg",
+          "bio": "Adhoc Assistant Professor",
+          "name": "Mr. Umang D Gajjar"
+        }
+      ]
+    },
+    {
+      "dept": "CIVIL  ENGINEERING",
+      "staff": [
+        {
+          "iUrl": "https://scet.ac.in/wp-content/uploads/2014/07/CIVIL_PratimaPatel.jpg",
+          "bio": "Professor",
+          "name": "Prof. (Dr.) Pratima Patel"
+        },
+        {
+          "iUrl": "https://scet.ac.in/wp-content/uploads/2014/07/CIVIL_JigarSevalia.jpg",
+          "bio": "Professor and Head of Department",
+          "name": "Prof. (Dr.) Jigar Sevalia"
+        },
+        {
+          "iUrl": "https://scet.ac.in/wp-content/uploads/2014/07/CIVIL_DharmeshBhagat.jpg",
+          "bio": "Associate Professor and PG In-Charge (M.E. Structural Engineering)",
+          "name": "Prof. Dharmesh Bhagat"
+        },
+        {
+          "iUrl": "https://scet.ac.in/wp-content/uploads/2014/07/CIVIL_HimanshuPadhya.jpg",
+          "bio": "Associate Professor and PG In-Charge (Town & Country Planning)",
+          "name": "Prof. Himanshu J Padhya "
+        },
+        {
+          "iUrl": "https://scet.ac.in/wp-content/uploads/2014/07/CIVIL_RatnaJadwani.jpg",
+          "bio": "Assistant Professor",
+          "name": "Prof. Ratna Jadvani"
+        }
+      ]
+    },
+    {
+      "dept": "CHEMICAL ENGINEERING",
+      "staff": [
+        {
+          "iUrl": "https://scet.ac.in/wp-content/uploads/2014/07/CH_SwatiSharma.jpg",
+          "bio": "Professor",
+          "name": "Prof. (Dr.) Swati Sharma"
+        },
+        {
+          "iUrl": "https://scet.ac.in/wp-content/uploads/2014/07/CH_VaishaliUrmrigar.jpg",
+          "bio": "Assistant Professor and Head of Department",
+          "name": "Dr. Vaishali Umrigar"
+        },
+        {
+          "iUrl": "https://scet.ac.in/wp-content/uploads/2014/07/CH_RashmitaPatel.jpg",
+          "bio": " Assistant Professor",
+          "name": "Prof. Rashmita Patel"
+        },
+        {
+          "iUrl": "https://scet.ac.in/wp-content/uploads/2014/07/CH_SrujalRana.jpg",
+          "bio": "Assistant Professor",
+          "name": "Prof. Srujal Rana"
+        },
+        {
+          "iUrl": "https://scet.ac.in/wp-content/uploads/2014/07/CH_AshishParmar.jpg",
+          "bio": "Assistant Professor",
+          "name": "Prof. Ashish Parmar"
+        }
+      ]
+    },
+    {
+      "dept": "APPLIED SCIENCE AND HUMANITIES",
+      "staff": [
+        {
+          "iUrl": "https://scet.ac.in/wp-content/uploads/2014/07/ASH_MayankDalal1.jpg",
+          "bio": " Associate Professor, HOD (ASH)",
+          "name": "Dr. Mayank Dalal"
+        },
+        {
+          "iUrl": "https://scet.ac.in/wp-content/uploads/2021/09/Denish-Jariwala-150x150.jpg",
+          "bio": "Adhoc Assistant Professor",
+          "name": "Prof. Denish Jariwala"
+        },
+        {
+          "iUrl": "https://scet.ac.in/wp-content/uploads/2014/07/ASH_MaheshTrivedi1.jpg",
+          "bio": "Assistant Professor",
+          "name": "Dr. Mahesh Trivedi"
+        },
+        {
+          "iUrl": "https://scet.ac.in/wp-content/uploads/2014/07/ASH_ShamaMulla1.jpg",
+          "bio": "Associate Professor",
+          "name": "Dr. Shama M. Mulla"
+        },
+        {
+          "iUrl": "https://scet.ac.in/wp-content/uploads/2014/07/ASH_NikeshShastri1.jpg",
+          "bio": "Sr. Assistant Professor",
+          "name": "Dr. Niket Shastri"
+        }
+      ]
+    },
+    {
+      "dept": "ELECTRICAL ENGINEERING",
+      "staff": [
+        {
+          "iUrl": "https://scet.ac.in/wp-content/uploads/2014/07/EL_HirenPatel.jpg",
+          "bio": "Professor and Principal",
+          "name": "Prof. (Dr.) Hiren H. Patel"
+        },
+        {
+          "iUrl": "https://scet.ac.in/wp-content/uploads/2014/07/EL_ShabbitBohra.jpg",
+          "bio": "Professor and Head of Department",
+          "name": "Prof. (Dr.) Shabbir Bohra"
+        },
+        {
+          "iUrl": "https://scet.ac.in/wp-content/uploads/2014/07/EL_AditiHajari.jpg",
+          "bio": " Associate Professor",
+          "name": "Prof. Aditi R. Hajari"
+        },
+        {
+          "iUrl": "https://scet.ac.in/wp-content/uploads/2014/07/EL_SandhyaRathore.jpg",
+          "bio": "Associate Professor",
+          "name": "Prof. (Dr.) Sandhya Rathore"
+        },
+        {
+          "iUrl": "https://scet.ac.in/wp-content/uploads/2014/07/EL_NileshShah.jpg",
+          "bio": "Associate Professor and Associate Dean Academic",
+          "name": "Prof.(Dr.)Nilesh Shah"
+        }
+      ]
+    },
+    {
+      "dept": "ELECTRONICS & COMMUNICATION ENGINEERING",
+      "staff": [
+        {
+          "iUrl": "https://scet.ac.in/wp-content/uploads/2014/07/EC_MaulinJoshi.jpg",
+          "bio": "Professor and Member Secretory CSC",
+          "name": "Prof. (Dr.) Maulin Joshi"
+        },
+        {
+          "iUrl": "https://scet.ac.in/wp-content/uploads/2014/07/EC_ChiragPaunwala.jpg",
+          "bio": "Professor, Dean–R&D",
+          "name": "Prof. (Dr.) Chirag Paunwala"
+        },
+        {
+          "iUrl": "https://scet.ac.in/wp-content/uploads/2014/07/EC_NiteenPatel.jpg",
+          "bio": "Associate Professor and Dean– Academics",
+          "name": "Prof. (Dr.) Niteen Patel"
+        },
+        {
+          "iUrl": "https://scet.ac.in/wp-content/uploads/2014/07/EC_NehalShah.jpg",
+          "bio": "Associate Professor, and Head Of Department",
+          "name": "Prof. (Dr.) Nehal Shah"
+        },
+        {
+          "iUrl": "https://scet.ac.in/wp-content/uploads/2014/07/EC_NeetaChapatwala.jpg",
+          "bio": "Assistant Professor",
+          "name": "Prof. Neeta Chapatwala"
+        }
+      ]
+    },
+    {
+      "dept": "INFORMATION TECHNOLOGY FACULTY",
+      "staff": [
+        {
+          "iUrl": "https://scet.ac.in/wp-content/uploads/2014/07/IT_MitaParikh.jpg",
+          "bio": "Professor and Head of Department",
+          "name": "Prof. (Dr.) Mita Parikh"
+        },
+        {
+          "iUrl": "https://scet.ac.in/wp-content/uploads/2014/07/v8-150x150.jpg",
+          "bio": "Associate Professor and Convener IT Solutions & Web Committee",
+          "name": "Prof. (Dr.) Vivaksha Jariwala"
+        },
+        {
+          "iUrl": "https://scet.ac.in/wp-content/uploads/2014/07/IT_HirenPatel.jpg",
+          "bio": "Assistant Professor",
+          "name": "Prof. Hiren H Vavaiya"
+        },
+        {
+          "iUrl": "https://scet.ac.in/wp-content/uploads/2014/07/IT_TusharGohil.jpg",
+          "bio": "Assistant Professor",
+          "name": "Prof. Tushar Gohil"
+        },
+        {
+          "iUrl": "https://scet.ac.in/wp-content/uploads/2014/07/IT_AshishKharwar.jpg",
+          "bio": "Assistant Professor",
+          "name": "Prof. Ashish Kharvar"
+        }
+      ]
+    },
+    {
+      "dept": "INSTRUMENTATION AND CONTROL",
+      "staff": [
+        {
+          "iUrl": "https://scet.ac.in/wp-content/uploads/2014/07/IC_UtpalPandya.jpg",
+          "bio": " Professor and Head of Department",
+          "name": "Prof. (Dr.) Utpal T. Pandya"
+        },
+        {
+          "iUrl": "https://scet.ac.in/wp-content/uploads/2014/07/IC_BrijeshNaik.jpg",
+          "bio": "Associate Professor",
+          "name": "Prof. Brijesh B. Naik"
+        },
+        {
+          "iUrl": "https://scet.ac.in/wp-content/uploads/2014/07/IC_TejalDave.jpg",
+          "bio": "Senior Assistant Professor",
+          "name": "Prof. Tejal A. Dave"
+        },
+        {
+          "iUrl": "https://scet.ac.in/wp-content/uploads/2014/07/IC_JainaRana.jpg",
+          "bio": "Assistant Professor",
+          "name": "Prof. Jayana S. Rana"
+        },
+        {
+          "iUrl": "https://scet.ac.in/wp-content/uploads/2014/07/IC_NandkishoreJoshi.jpg",
+          "bio": "Assistant Professor",
+          "name": "Prof. Nandkishor Joshi"
+        }
+      ]
+    },
+    {
+      "dept": "TEXTILE TECHNOLOGY",
+      "staff": [
+        {
+          "iUrl": "https://scet.ac.in/wp-content/uploads/2014/07/TT_PrakashKhatwani.jpg",
+          "bio": "Professor and Training & Placement Officer",
+          "name": "Prof. (Dr.) P. A. Khatwani"
+        },
+        {
+          "iUrl": "https://scet.ac.in/wp-content/uploads/2014/07/TT_ChitraJoshi.jpg",
+          "bio": "Associate Professor",
+          "name": "Prof.(Dr.) Chitra Joshi"
+        },
+        {
+          "iUrl": "https://scet.ac.in/wp-content/uploads/2014/07/TT_SudhirYardi.jpg",
+          "bio": "Associate Professor",
+          "name": "Prof. Sudhir S. Yardi"
+        }
+      ]
+    },
+    {
+      "dept": "MASTER OF COMPUTER APPLICATION",
+      "staff": [
+        {
+          "iUrl": "https://scet.ac.in/wp-content/uploads/2014/07/MCA_GayatriKapadia.jpg",
+          "bio": "Assistant Professor",
+          "name": "Prof. Gayatri Kapadia"
+        },
+        {
+          "iUrl": "https://scet.ac.in/wp-content/uploads/2014/07/MCA_KaushikaPal-150x150.jpeg",
+          "bio": "Assistant Professor",
+          "name": "Dr. Kaushika Pal"
+        },
+        {
+          "iUrl": "https://scet.ac.in/wp-content/uploads/2014/07/MCA_PrashantKeswani.jpg",
+          "bio": "Assistant Professor and Head of Department",
+          "name": "Prof. Prashant Keswani"
+        },
+        {
+          "iUrl": "https://scet.ac.in/wp-content/uploads/2014/07/MCA_AlpaShah.jpg",
+          "bio": "Assistant Professor",
+          "name": "Prof. (Dr.) Alpa Shah"
+        },
+        {
+          "iUrl": "https://scet.ac.in/wp-content/uploads/2014/07/MCA_RashmiChouhan.jpg",
+          "bio": "Assistant Professor",
+          "name": "Prof. Rashmi Chouhan"
+        }
+      ]
+    }
+  ]
+}

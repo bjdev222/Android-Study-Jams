@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    app:startDestination="@id/deptFragment">
+    <fragment
+        android:id="@+id/deptFragment"
+        android:name="com.scetasj.universitydatabase.DeptFragment"
+        android:label="fragment_dept"
+        tools:layout="@layout/fragment_dept" >
+        <action
+            android:id="@+id/action_deptFragment_to_profFragment"
+            app:destination="@id/profFragment" />
+        <action
+            android:id="@+id/action_deptFragment_to_aboutUsFragment"
+            app:destination="@id/aboutUsFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/profFragment"
+        android:name="com.scetasj.universitydatabase.ProfFragment"
+        android:label="fragment_prof"
+        tools:layout="@layout/fragment_prof" >
+        <argument
+            android:name="staff"
+            app:argType="com.scetasj.universitydatabase.model.Info" />
+    </fragment>
+    <fragment
+        android:id="@+id/aboutUsFragment"
+        android:name="com.scetasj.universitydatabase.AboutUsFragment"
+        android:label="fragment_about_us"
+        tools:layout="@layout/fragment_about_us" />
+</navigation>
